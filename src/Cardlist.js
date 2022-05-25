@@ -20,7 +20,7 @@ export default function Cardlist() {
 
                     name7="Kurtis Weissnat"
 
-                    name8="Nicholas Runolfsdottir V"
+                    name8="Nicholas V"
 
                     name9="Glenna Reichert"
 
