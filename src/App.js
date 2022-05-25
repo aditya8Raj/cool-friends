@@ -12,8 +12,8 @@ export default function App() {
   return (
     <>
       <div>
-        <header class="white-80 tc pv1 avenir">
-          <h1 class="mt2 mb0 fw1 f1">COOL FRIENDS</h1>
+        <header className="white-80 tc pv1 avenir">
+          <h1 className="mt2 mb0 fw1 f1">COOL FRIENDS</h1>
           <br />
           <Searchbox />
         </header>
