@@ -25,3 +25,7 @@ a {
     color: rgb(151, 255, 243);
     text-decoration: none;
 }
+
+.font-link {
+    font-family: 'Shadows Into Light', cursive;
+}
